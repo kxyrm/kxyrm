@@ -1,7 +1,7 @@
 {
     "titleNameMap":{
         "educationList":"教育背景",
-        "workExpList":"专业技能",
+        "workExpList":"工作经历",
         "projectList":"项目经历",
         "skillList":"获奖证书",
         "awardList":"更多信息",
@@ -40,14 +40,12 @@
     ],
     "workExpList":[
         {
-            "company_name":"Spring",
-            "department_name":"",
             "work_time":[
-                "1",
-                "2"
+                "2.3"
             ],
-            "work_desc":"1. 担任蚂蚁高管决策和管理协同产品 “数据作战室” 的前端负责人\r\n2. 负责蚂蚁敏捷 BI 产品 “DeepInsight” 的可视分析模块产品能力建设\n3. 数据可视化 AntV 团队核心成员，负责 G2、G2Plot 开源技术的建设",
-            "dataIndex":0
+            "company_name":" 2",
+            "department_name":"",
+            "work_desc":"熟练使用springboot,springcloud微服务框架\n熟练使用ava常用的SSM(Spring,SpringMVC，Mybatis)、Struts2、Hibernate等开发框架\n熟练掌握Eclipse/IDEA、svn、Git、Maven等开发及版本控制工具，熟练掌握Java基础 \n熟练使用VUE，HTML，CSSJS.jQuery，ajax,ElementUl,bootstrap等前端技术\n熟练使用SQL Server、MySQL数据库和Oracle，熟练使用sql语句\n熟悉SpringCloud常用组件、注册中心Eureka、nacos、客户端调用工具Feign、网关Gateway\n熟悉RESTful API开发规范，熟悉三方授权OAuth协议、JWT协议、以及微信公众号开发\n熟悉网络通讯协议，熟练使用json、xml通讯格式，熟悉常见消息中间件Kafka使用\n掌握Tomact、nginx等WEB服务器，能够进行配置和调优\n了解 Linux系统，会用基本的Linux命令\n"
         }
     ],
     "skillList":[
